@@ -40,7 +40,8 @@ git clone https://github.com/gk2savage/rapyd-pay
 ```sh
 composer install
 ```
-3. Setup the MySQL database on phpmyadmin or locally with the commands with help of ``database_dw.sql``.
+3. Setup the MySQL database on phpmyadmin or locally with the commands with help of ``database_dw.sql``
+4. Host it on Apache with MySQL (phpmyadmin) in XAMPP 
 
 
 ## Usage
