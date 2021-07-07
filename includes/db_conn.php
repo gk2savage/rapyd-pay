@@ -6,7 +6,7 @@ $unmae= $_ENV["uname"];
 
 $password = $_ENV["password"];
 
-$db_name = "rapyd";
+$db_name = $_ENV["dbname"];
 
 $conn = mysqli_connect($sname, $unmae, $password, $db_name);
 
