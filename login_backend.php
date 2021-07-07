@@ -6,7 +6,7 @@ include "includes/db_conn.php";
 
 
 $path = $_SERVER['DOCUMENT_ROOT'];
-$path .= "/includes/utilities.php";
+$path .= "includes/utilities.php";
 include($path);
 
 $emaq = $_SESSION['email_id'];
