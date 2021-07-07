@@ -14,6 +14,8 @@ Reference : [Rapyd Docs](https://docs.rapyd.net/build-with-rapyd/docs/getting-st
 
 ### NOTE: This is a submission for the ``Hackathon : Formula 0001: Rapyd Fintech Grand Prix``. This is not an actual payment wallet webapp.
 
+## Youtube Video Showcase : https://www.youtube.com/watch?v=nawmoDx9gwM
+
 ## Prerequisites and Techstacks used
 
 - PHP Framework with Composer Packages
