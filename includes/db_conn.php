@@ -2,9 +2,9 @@
 
 $sname= "localhost";
 
-$unmae= "root";
+$unmae= $_ENV["uname"];
 
-$password = "";
+$password = $_ENV["password"];
 
 $db_name = "rapyd";
 
