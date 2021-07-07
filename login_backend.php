@@ -3,6 +3,7 @@
 
 
 include "includes/db_conn.php";
+require __DIR__ . '/vendor/autoload.php';
 
 
 $path = $_SERVER['DOCUMENT_ROOT'];
