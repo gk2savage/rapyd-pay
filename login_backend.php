@@ -3,11 +3,10 @@
 
 
 include "includes/db_conn.php";
-require __DIR__ . '/vendor/autoload.php';
 
 
 $path = $_SERVER['DOCUMENT_ROOT'];
-$path .= "/walletapp/includes/utilities.php";
+$path .= "/includes/utilities.php";
 include($path);
 
 $emaq = $_SESSION['email_id'];
