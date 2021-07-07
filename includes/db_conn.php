@@ -1,6 +1,6 @@
 <?php
 
-$sname= "localhost";
+$sname= $_ENV["sname"];
 
 $unmae= $_ENV["uname"];
 
