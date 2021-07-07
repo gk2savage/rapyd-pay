@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rapyd Checkout Toolkit</title>
+    <script src="https://checkouttoolkit.rapyd.net"></script>
+	<script src="https://sandboxcheckouttoolkit.rapyd.net"></script>
+
+
+    <script>
+        window.onload = function () {
+            let checkout = new RapydCheckoutToolkit({
+                pay_button_text: "Click to pay",
+                pay_button_color: "blue",
+                id: "checkout_ee7a8f2ca3c803d1e31598f8b1977bc5"
+            });
+            checkout.displayCheckout();
+        }
+        window.addEventListener('onCheckoutPaymentSuccess', function (event) {
+            console.log(event.detail)
+        });
+        window.addEventListener('onCheckoutFailure', function (event) {
+            console.log(event.detail.error)
+        });
+    </script>
+</head>
+
+<body style="background-color: #f1f1f1; display: flex; align-items: center; flex-direction: column; margin: 0">
+    <h1>Rapyd Checkout Toolkit Demo</h1>
+    <div style="width: 500px" id="rapyd-checkout"></div>
+</body>
+
+</html>
