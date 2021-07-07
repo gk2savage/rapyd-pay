@@ -16,6 +16,8 @@ Reference : [Rapyd Docs](https://docs.rapyd.net/build-with-rapyd/docs/getting-st
 
 ## Youtube Video Showcase : https://www.youtube.com/watch?v=nawmoDx9gwM
 
+## Hosted at : https://rapyd-pay-in.herokuapp.com/
+
 ## Prerequisites and Techstacks used
 
 - PHP Framework with Composer Packages
@@ -110,3 +112,7 @@ All your transaction history can be seen in ``wallet details`` as well.
 ## Author
 
 <a href="https://github.com/gk2savage">  <h3> Girish </h3> </a>
+
+## Contributors
+
+<a href="https://github.com/harshkyo">  <h3> Girish </h3> </a>
