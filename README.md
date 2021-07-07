@@ -115,4 +115,4 @@ All your transaction history can be seen in ``wallet details`` as well.
 
 ## Contributors
 
-<a href="https://github.com/harshkyo">  <h3> Girish </h3> </a>
+<a href="https://github.com/harshkyo">  <h3> Harshit </h3> </a>
