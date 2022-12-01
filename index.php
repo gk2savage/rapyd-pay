@@ -9,7 +9,6 @@
 <head>
 
 	<meta charset="utf-8">
-
 	<title>RAPYD-PAY</title>
 
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
