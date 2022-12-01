@@ -109,10 +109,10 @@ All your transaction history can be seen in ``wallet details`` as well.
 <img src="snapshots/ss6.png"/>
 </p>
 
-## Author
+### Author
 
-<a href="https://github.com/gk2savage">  <h3> Girish </h3> </a>
+<a href="https://github.com/gk2savage">  <h4> Girish </h4> </a>
 
-## Contributors
+### Contributors
 
-<a href="https://github.com/harshkyo">  <h3> Harshit </h3> </a>
+<a href="https://github.com/harshkyo">  <h4> Harshit </h4> </a>
