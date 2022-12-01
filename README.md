@@ -51,9 +51,9 @@ composer install
 Rapyd-Pay is a minimalist payment wallet platform which allow users to store funds in their rapyd wallets, send and recieve money to other wallets, and track transaction histories.
 You can sign up and login on the rapyd-pay. New Users registering will need to fill a form to automatically register and e-wallet id for their wallet.
 
-You can store money via Credit cards (visa, mastercard etc.). You can send money to other with their ewallet-id and all the transaction history can be seen.
+You can store money via Credit cards (visa, mastercard etc). You can send money to other with their ewallet-id and all the transaction history can be seen.
 
-This is just a basic demo for the hackathon purposes but this can be actually implemented in real-life scenarios with better security, multiple authentications, multiple ways to add money in the wallet like Bank Trasnfers which are already present in Rapyd Wallet and adding new technologies like Crypto to send money from Crypto to wallet and vice versa.
+This is just a basic demo for the hackathon purposes but this can be actually implemented in real-life scenarios with better security, multiple authentications, multiple ways to add money in the wallet like bank transfers which are already present in Rapyd Wallet and adding new technologies like Crypto to send money from Crypto Wallets to Rapyd Wallets and vice-versa.
 
 
 ## Rapyd-Pay Workflow
